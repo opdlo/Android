@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">智舞流光</string>
+    <string name="community">社区</string>
+    <string name="learning_resources">学习资源</string>
+    <string name="action_analysis">动作分析</string>
+    <string name="profile">个人主页</string>
+    <string name="search">搜索</string>
+    <string name="post">发布</string>
+    <string name="login">登录</string>
+    <string name="register">注册</string>
+    <string name="username">用户名</string>
+    <string name="password">密码</string>
+    <string name="confirm_password">确认密码</string>
+    <string name="email">邮箱</string>
+    <string name="nickname">昵称</string>
+    <string name="signature">个性签名</string>
+    <string name="edit_profile">编辑资料</string>
+    <string name="my_favorites">我的收藏</string>
+    <string name="switch_account">切换账号</string>
+    <string name="logout">退出登录</string>
+    <string name="practice_history">练习历史</string>
+    <string name="new_practice">新练习</string>
+    <string name="upload_video">上传视频</string>
+    <string name="analyzing">分析中</string>
+    <string name="score">评分</string>
+    <string name="suggestions">改进建议</string>
+    <string name="hot">热门</string>
+    <string name="latest">最新</string>
+    <string name="follow">关注</string>
+</resources>

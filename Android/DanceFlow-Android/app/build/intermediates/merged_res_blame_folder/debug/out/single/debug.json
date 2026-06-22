@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "com.danceflow.app-merged_res-70:/xml_backup_rules.xml.flat",
+        "source": "com.danceflow.app-main-72:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.danceflow.app-merged_res-70:/xml_data_extraction_rules.xml.flat",
+        "source": "com.danceflow.app-main-72:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.danceflow.app-merged_res-70:/xml_file_paths.xml.flat",
+        "source": "com.danceflow.app-main-72:/xml/file_paths.xml"
+    }
+]
